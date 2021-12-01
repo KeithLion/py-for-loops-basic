@@ -20,7 +20,13 @@
 #         sum = sum + i
 #     print(sum)
 
-i = 2018
-while i > 0:
-    print(i)
-    i -= 4
+# i = 2018
+# while i > 0:
+#     print(i)
+#     i -= 4
+
+# LowNum = 2
+# HighNum = 9
+# mult = 3
+# for i in range(LowNum, HighNum, mult):
+#     print(i+1)
