@@ -19,3 +19,8 @@
 #     if (i % 3 == 0):
 #         sum = sum + i
 #     print(sum)
+
+i = 2018
+while i > 0:
+    print(i)
+    i -= 4
